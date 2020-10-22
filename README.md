@@ -100,7 +100,7 @@ fi.map({one: 1, two: 2, three: 3}, function(num, key){ return num * 3; });
 
 **fi.reduce**
 
-`fi.reduce(collection, callback, acc)`
+`fi.reduce(collection, callback, acc)` 
 
 Reduce boils down a **collection** of values into a single value. **Acc**
 (short for accumulator) starts as the initial state of the reduction, and with
