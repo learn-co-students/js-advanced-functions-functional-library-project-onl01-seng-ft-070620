@@ -37,6 +37,7 @@
     "chai-spies-next": "^0.9.3"
   },
   "dependencies": {
+    "pryjs": "^1.0.3",
     "sinon": "^7.3.2"
   }
 }
